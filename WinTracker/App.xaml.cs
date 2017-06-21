@@ -13,5 +13,6 @@ namespace WpfApplication2
     /// </summary>
     public partial class App : Application
     {
+        // tegan was here
     }
 }
